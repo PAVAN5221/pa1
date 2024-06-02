@@ -17,7 +17,7 @@ public class login {
 		driver.findElement(By.xpath("//*[@id=\"password\"]")).sendKeys("secret_sauce");
 		driver.findElement(By.xpath("//*[@id=\"login-button\"]")).click();
 
-		//this code has no errors
+		//This code has no errors
 
 	}
 
